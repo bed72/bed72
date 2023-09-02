@@ -7,7 +7,7 @@
 ### About me
  - I'm am fascinated by development Mobile.
  - I'm graduated in Science Computer at the Federal Institute of Santa Catarina.
- - My Skils are Kotlin, JS/TS and Dart, currently interested in Go Lang and Python, my favorite frameworks are Flutter and NestJs
+ - My Skils are Kotlin, JS/TS and Dart, currently interested in Rust and Python, my favorite frameworks are Flutter and NestJs
 
 My [@LinkedIn](https://www.linkedin.com/in/gabriel-ramos-bed/)
 
